@@ -6,7 +6,7 @@ int main() {
 
   int num = 'a';
   cout << num << endl;
-
+  
   char chr = 97;
   cout << chr << endl;
 
