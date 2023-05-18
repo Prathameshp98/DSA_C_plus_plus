@@ -6,6 +6,8 @@ using namespace std;
 
 int main() {
 
+    // array is of static size
+
   array<int, 5>arr {1, 4, 5, 7, 9};
 
   int size = arr.size();
