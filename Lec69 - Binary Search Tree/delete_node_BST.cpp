@@ -109,9 +109,6 @@ Node* deleteNodeBST(Node* root, int key){
     root->right = deleteNodeBST(root->right, key);
     return root;
   }
-
-    
-  
   
 }
 
